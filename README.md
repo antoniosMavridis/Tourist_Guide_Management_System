@@ -1,4 +1,4 @@
-# touristGuideManagementSystem
+# Tourist_Guide_Management_System
 
 
 A Tourist Guide Management System with Prolog.
